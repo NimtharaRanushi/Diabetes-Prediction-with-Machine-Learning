@@ -4,3 +4,4 @@ This repository contains code and resources for a machine learning project to pr
 
 ## Project Structure
 The repository contains the following files:
+* Descriptive_FAMD_lOGISTIC.ipynb: Jupyter Notebook with data preprocessing, descriptive analysis of several variables, factor analysis for mixed data, chi square tests and fitted logistic regression model.
