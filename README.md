@@ -6,6 +6,7 @@ This repository contains code and resources for a machine learning project to pr
 The repository contains the following files:
 * Descriptive_FAMD_lOGISTIC.ipynb: Jupyter Notebook with data preprocessing, descriptive analysis of several variables, factor analysis for mixed data, chi square tests , fitted logistic regression, elastic net regression and KNN models.
 * RandomForest_and_Clustering - Copy.ipynb:Jupyter Notebook with fitted Ridge regression model, RandomForest model and Kprototype Clustering algorithm.
+* Descriptive_Lasso_XGBoost.ipynb: Jupyter Notebook with descriptive analysis of several variables, Lasso regression for classification and XG boost models.
 
 ## Data Preprocessing
 Involve cleaning data, dealing with missing values and data scaling.
